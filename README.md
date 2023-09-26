@@ -10,7 +10,6 @@ Passionate about computer science since childhood, I am in my 3rd year of IT stu
 <br>
 A fan of video games 🕹️, I also enjoy immersing myself in movies and series 🎬
 
-
 ## 🤝 Connect with me
 
 <a href="https://www.linkedin.com/in/axel-frache"><img align="left" src="images/linkedin.png" alt="Yu Shi | LinkedIn" width="21px"/></a>
@@ -26,7 +25,7 @@ A fan of video games 🕹️, I also enjoy immersing myself in movies and series
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-</br>
+<br>
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
