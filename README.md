@@ -4,8 +4,8 @@
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/axelfrache"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
-<a href="https://instagram.com/axelfrch"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
+<a href="https://www.linkedin.com/in/axel-frache"><img align="left" src="images/linkedin.png" alt="Yu Shi | LinkedIn" width="21px"/></a>
+<a href="https://instagram.com/axelfrch"><img align="left" src="images/instagram.png" alt="Yu Shi | Instagram" width="21px"/></a>
 </br>
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=axelfrache&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
