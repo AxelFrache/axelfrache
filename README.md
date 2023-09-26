@@ -2,7 +2,14 @@
   <a href="images/banner.png" target="_blank" rel="noreferrer"><img src="images/banner.png" alt="my banner"></a>
 </p>
 
-### 🤝 Connect with me:
+
+
+### 👤 About me
+Passionate about computer science since childhood, I am in my 3rd year of IT studies, specializing in various team projects to hone my skills 🖥️
+<br>
+A fan of video games 🕹️, I also enjoy immersing myself in movies and series 🎬
+
+### 🤝 Connect with me
 
 <a href="https://www.linkedin.com/in/axel-frache"><img align="left" src="images/linkedin.png" alt="Yu Shi | LinkedIn" width="21px"/></a>
 <a href="https://instagram.com/axelfrch"><img align="left" src="images/instagram.png" alt="Yu Shi | Instagram" width="21px"/></a>
