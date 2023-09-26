@@ -12,9 +12,11 @@ A fan of video games 🕹️, I also enjoy immersing myself in movies and series
 
 ## 🤝 Connect with me
 
-<a href="https://www.linkedin.com/in/axel-frache"><img align="left" src="images/linkedin.png" alt="Yu Shi | LinkedIn" width="21px"/></a>
-<a href="https://instagram.com/axelfrch"><img align="left" src="images/instagram.png" alt="Yu Shi | Instagram" width="21px"/></a>
+<a href="https://www.linkedin.com/in/axel-frache"><img align="left" src="images/linkedin.png" alt="axel-frache | LinkedIn" width="21px"/></a>
+<a href="https://instagram.com/axelfrch"><img align="left" src="images/instagram.png" alt="axelfrch | Instagram" width="21px"/></a>
+<a href="https://open.spotify.com/user/21gkotrpjlxzbrv3k37z2y3ni?si=578bafbe296a40ed"><img align="left" src="images/spotify.png" alt="Axel Frache | Spotify" width="21px"/></a>
 </br>
+
 
 ## 💼 Technical Skills
 
