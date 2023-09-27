@@ -6,7 +6,9 @@
 👤 About me
 </h2>
 
-Passionate about computer science since childhood, I am in my 3rd year of IT studies, specializing in various team projects to hone my skills 🖥️
+Passionate about computer science since childhood, I am in my 3rd year of IT studies, 
+<br>
+specializing in various team projects to hone my skills 🖥️
 <br>
 A fan of video games 🕹️, I also enjoy immersing myself in movies and series 🎬
 
