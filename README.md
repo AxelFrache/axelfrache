@@ -9,6 +9,8 @@
 Passionate about computer science since childhood, I am in my 3rd year of IT studies, specializing in various team projects to hone my skills 🖥️
 <br>
 A fan of video games 🕹️, I also enjoy immersing myself in movies and series 🎬
+<br>
+If you want to know more about me, I invite you to check out my <a href='https://axelfrache.github.io/'>portfolio</a> 🌐
 
 ## 🤝 Connect with me
 
