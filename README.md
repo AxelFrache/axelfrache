@@ -51,6 +51,8 @@ If you want to know more about me, I invite you to check out my <a href='https:/
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=axelfrache&theme=cobalt)
 
+![Visitor Count](https://profile-counter.glitch.me/{axelfrache}/count.svg)
+
 ## 🎵 Music
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=21gkotrpjlxzbrv3k37z2y3ni&count=1)
