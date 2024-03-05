@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="images/banner.png" target="_blank" rel="noreferrer"><img src="images/banner.png" alt="my banner"></a>
+  <a href="images/bannerGitHub.png" target="_blank" rel="noreferrer"><img src="images/banner.png" alt="my banner"></a>
 </p>
 
 <h2 align="center">
