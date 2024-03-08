@@ -6,8 +6,7 @@
 👤 About me
 </h2>
 
-Passionate about computer science since childhood, I am in my 3rd year of IT studies, specializing in various team projects to hone my skills 🖥️
-A fan of video games 🕹️, I also enjoy immersing myself in movies and series 🎬
+As a third-year computer science student passionate about technology, I started my journey with VB.net, developing chat applications. This experience fueled my curiosity in various programming languages, aiming to deepen my technical skills. Through a professional apprenticeship and team-based projects, I've focused on sustainable architecture and user-centric design. My goal is to merge innovative design with solid development practices to create impactful solutions.
 
 If you want to know more about me, I invite you to check out my <a href='https://axelfrache.github.io/'>portfolio</a> 🌐
 
