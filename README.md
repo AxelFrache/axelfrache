@@ -6,11 +6,17 @@
 👤 About me
 </h2>
 
-<p aligh="justify">
+<table>
+  <tr>
+    <td align="justify">
+    
 As a third-year computer science student passionate about technology, I started my journey with VB.net, developing chat applications. This experience fueled my curiosity in various programming languages, aiming to deepen my technical skills. Through a professional apprenticeship and team-based projects, I've focused on sustainable architecture and user-centric design. My goal is to merge innovative design with solid development practices to create impactful solutions.
 
-If you want to know more about me, I invite you to check out my <a href='https://axelfrache.github.io/'>portfolio</a> 🌐
-</p>
+If you want to know more about me, I invite you to check out my [portfolio](https://axelfrache.github.io/) 🌐
+
+    </td>
+  </tr>
+</table>
 
 ## 🤝 Connect with me
 
