@@ -7,9 +7,7 @@
 </h2>
 
 Passionate about computer science since childhood, I am in my 3rd year of IT studies, specializing in various team projects to hone my skills 🖥️
-<br>
 A fan of video games 🕹️, I also enjoy immersing myself in movies and series 🎬
-
 
 If you want to know more about me, I invite you to check out my <a href='https://axelfrache.github.io/'>portfolio</a> 🌐
 
@@ -50,6 +48,7 @@ If you want to know more about me, I invite you to check out my <a href='https:/
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axelfrache&layout=compact&theme=cobalt)
 
 ![](https://komarev.com/ghpvc/?username=your-github-axelfrache&color=blue)
+![](https://visitor-badge.lithub.cc/badge?page_id=github.com/axelfrache)
 
 ## 🎵 Music
 
