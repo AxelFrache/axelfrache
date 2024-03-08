@@ -48,7 +48,6 @@ If you want to know more about me, I invite you to check out my <a href='https:/
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axelfrache&layout=compact&theme=cobalt)
 
 ![](https://komarev.com/ghpvc/?username=your-github-axelfrache&color=blue)
-![](https://visitor-badge.lithub.cc/badge?page_id=github.com/axelfrache)
 
 ## 🎵 Music
 
