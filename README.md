@@ -49,7 +49,3 @@ If you want to know more about me, I invite you to check out my [Portfolio](http
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axelfrache&layout=compact&theme=cobalt)
 
 ![](https://komarev.com/ghpvc/?username=your-github-axelfrache&color=blue)
-
-## 🎵 Music
-
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=21gkotrpjlxzbrv3k37z2y3ni&count=1)
