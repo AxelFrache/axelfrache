@@ -11,7 +11,7 @@
   My goal is to merge innovative design with solid development practices to create impactful solutions.
 </p>
 <p align="center">
-  If you want to know more about me, I invite you to check out my <a href="https://axelfrache.github.io/">portfolio</a> 🌐
+  If you want to know more about me, I invite you to check out my <a href="https://axelfrache.netlify.app/">portfolio</a> 🌐
 </p>
 
 <h2 align="center">🤝 Connect with Me</h2>
