@@ -1,17 +1,16 @@
+# Hi there, I'm [Axel](https://axelfrache.netlify.app/) 👋
+
 <p align="center">
   <a href="images/bannerGitHub.png" target="_blank" rel="noreferrer"><img src="images/bannerGitHub.png" alt="my banner"></a>
 </p>
 
-<h2 align="center">👤 About Me</h2>
+<h3 align="center">A Passionate Computer Science Student</h3>
 
 <p align="center">
-  As a third-year computer science student passionate about technology, I started my journey with VB.net, developing chat applications. 
-  This experience fueled my curiosity in various programming languages, aiming to deepen my technical skills. 
-  Through a professional apprenticeship and team-based projects, I've focused on sustainable architecture and user-centric design. 
-  My goal is to merge innovative design with solid development practices to create impactful solutions.
+  I'm a third-year computer science student with a deep passion for technology. My journey began with VB.net, where I developed chat applications. This initial experience sparked my curiosity and led me to explore various programming languages.
 </p>
 <p align="center">
-  If you want to know more about me, I invite you to check out my <a href="https://axelfrache.netlify.app/">portfolio</a> 🌐
+  Through a professional apprenticeship and collaborative projects, I have honed my skills in sustainable architecture and user-centric design. My goal is to blend innovative design with solid development practices to create impactful solutions.
 </p>
 
 <h2 align="center">🤝 Connect with Me</h2>
