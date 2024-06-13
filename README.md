@@ -4,7 +4,7 @@
   <a href="images/bannerLinkedin.png" target="_blank" rel="noreferrer"><img src="images/bannerLinkedin.png" alt="my banner"></a>
 </p>
 
-<h3 align="center">A Passionate Computer Science Student</h3>
+<h3 align="center">CS student deeply passionate about development and technology 👨‍💻</h3>
 
 <p align="center">
   I'm a third-year computer science student with a deep passion for technology. My journey began with VB.net, where I developed chat applications. This initial experience sparked my curiosity and led me to explore various programming languages.
