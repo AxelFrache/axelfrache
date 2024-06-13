@@ -1,7 +1,7 @@
 # Hi there, I'm [Axel](https://axelfrache.netlify.app/) 👋
 
 <p align="center">
-  <a href="images/bannerGitHub.png" target="_blank" rel="noreferrer"><img src="images/bannerLinkedin.png" alt="my banner"></a>
+  <a href="images/bannerLinkedin.png" target="_blank" rel="noreferrer"><img src="images/bannerLinkedin.png" alt="my banner"></a>
 </p>
 
 <h3 align="center">A Passionate Computer Science Student</h3>
