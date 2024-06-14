@@ -4,13 +4,13 @@
   <a href="images/bannerLinkedin.png" target="_blank" rel="noreferrer"><img src="images/bannerLinkedin.png" alt="my banner"></a>
 </p>
 
-<h3 align="center">CS student deeply passionate about development and technology 👨‍💻</h3>
+<h3 align="center">I'm a CS student passionate about development and innovative technology 👨‍💻</h3>
 
 <p align="center">
-  I'm a third-year computer science student with a deep passion for technology. My journey began with VB.net, where I developed chat applications. This initial experience sparked my curiosity and led me to explore various programming languages.
+  I'm a third-year computer science student with a deep passion for technology. My journey began with VB.net, where I developed chat applications using sockets. This initial experience sparked my curiosity and led me to explore various programming languages.
 </p>
 <p align="center">
-  Through a professional apprenticeship and collaborative projects, I have honed my skills in sustainable architecture and user-centric design. My goal is to blend innovative design with solid development practices to create impactful solutions.
+  I'm currently working to improve my skills in software architecture and DevOps, areas that greatly interest me. I primarily work with Java, Spring, and JavaScript frameworks like React and Next.js. My goal is to blend innovative design with solid development practices to create impactful solutions.
 </p>
 
 <h2 align="center">🤝 Connect with Me</h2>
