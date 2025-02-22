@@ -17,11 +17,11 @@
 <h2 align="center">🤝 Connect with Me</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/axel-frache"><img src="images/linkedin.png" alt="axel-frache | LinkedIn" width="24px"/></a>
+  <a href="https://www.linkedin.com/in/axel-frache"><img src="images/linkedin.png" alt="axel-frache | LinkedIn" width="24px" style="vertical-align: bottom;"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:axel.frache@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" width="24px" style="border-radius: 3px;"/></a>
+  <a href="mailto:axel.frache@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" width="24px" style="vertical-align: bottom; border-radius: 3px;"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://dev.to/axelfrache"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="axel-frache | Dev.to" width="24px" style="border-radius: 3px;"/></a>
+  <a href="https://dev.to/axelfrache"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="axel-frache | Dev.to" width="24px" style="vertical-align: bottom; border-radius: 3px;"/></a>
 </p>
 
 <h2 align="center">💼 Technical Skills</h2>
