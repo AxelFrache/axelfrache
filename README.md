@@ -17,8 +17,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/axel-frache"><img src="images/linkedin.png" alt="axel-frache | LinkedIn" width="21px"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/axelfrch"><img src="images/instagram.png" alt="axelfrch | Instagram" width="21px"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://open.spotify.com/user/21gkotrpjlxzbrv3k37z2y3ni?si=578bafbe296a40ed"><img src="images/spotify.png" alt="Axel Frache | Spotify" width="21px"/></a>
 </p>
 
 <h2 align="center">💼 Technical Skills</h2>
