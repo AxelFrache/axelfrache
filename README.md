@@ -7,7 +7,7 @@
 <h3 align="center">Software Engineering Student & DevOps Enthusiast 👨‍💻</h3>
 
 <p align="center">
-  I'm a Software Engineering student at Polytech Montpellier, specializing in Software Development and Operational Excellence (DO). My academic journey focuses on DevOps practices, advanced programming concepts, algorithms, and network security fundamentals.
+  I'm a Software Engineering student at Polytech Montpellier, specializing in DevOps (DO). My academic journey focuses on DevOps practices, advanced programming concepts, algorithms, and network security fundamentals.
 </p>
 
 <p align="center">
