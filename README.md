@@ -4,48 +4,48 @@
   <a href="images/bannerLinkedin.png" target="_blank" rel="noreferrer"><img src="images/bannerLinkedin.png" alt="my banner"></a>
 </p>
 
-<h3 align="center">CS student passionate about development and innovative technology 👨‍💻</h3>
+<h3 align="center">Software Engineering Student & DevOps Enthusiast 👨‍💻</h3>
 
 <p align="center">
-  I'm a third-year computer science student with a deep passion for technology. My journey began with VB.net, where I developed chat applications using sockets. This initial experience sparked my curiosity and led me to explore various programming languages.
+  I'm a Software Engineering student at Polytech Montpellier, specializing in Software Development and Operational Excellence (DO). My academic journey focuses on DevOps practices, advanced programming concepts, algorithms, and network security fundamentals.
 </p>
+
 <p align="center">
-  I'm currently working to improve my skills in software architecture and DevOps, areas that greatly interest me. I primarily work with Java, Spring, and JavaScript frameworks like React and Next.js. My goal is to blend innovative design with solid development practices to create impactful solutions.
+  Currently working as an apprentice Software Engineer at Agysoft, I'm part of an innovation-driven team where I contribute to exciting projects involving AI integration, SSO implementation, and security enhancements. I work primarily with Java, Spring, and modern JavaScript frameworks like React and Next.js, always striving to create efficient, secure, and scalable solutions while following industry best practices.
 </p>
 
 <h2 align="center">🤝 Connect with Me</h2>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/axel-frache"><img src="images/linkedin.png" alt="axel-frache | LinkedIn" width="21px"/></a>&nbsp;&nbsp;&nbsp;
+<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 12px;">
+  <a href="https://www.linkedin.com/in/axel-frache"><img src="images/linkedin.png" alt="axel-frache | LinkedIn" width="21px" style="vertical-align: middle;"/></a>
+  <a href="mailto:axel.frache@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" width="21px" style="border-radius: 3px; vertical-align: middle;"/></a>
+  <a href="https://dev.to/axelfrache"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="axel-frache | Dev.to" width="21px" style="border-radius: 3px; vertical-align: middle;"/></a>
 </p>
 
 <h2 align="center">💼 Technical Skills</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Debian-E95420?style=for-the-badge&logo=debian&logoColor=white" alt="Debian"/>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
-  <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
 </p>
 
-<h2 align="center">📈 Stats</h2>
+<h2 align="center">📈 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=axelfrache&layout=compact&theme=cobalt" alt="Top Languages"/>
