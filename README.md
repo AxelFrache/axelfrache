@@ -7,7 +7,7 @@
 <h3 align="center">Software Engineering Student & DevOps Enthusiast 👨‍💻</h3>
 
 <p align="center">
-  I'm a Software Engineering student at Polytech Montpellier, specializing in DevOps (DO). My academic journey focuses on DevOps practices, advanced programming concepts, algorithms, and network security fundamentals.
+  I'm a Software Engineering student at Polytech Montpellier, specializing in Software Development and IT Operations. My academic journey focuses on engineering practices, DevOps methodologies, and advanced software architecture.
 </p>
 
 <p align="center">
@@ -17,11 +17,11 @@
 <h2 align="center">🤝 Connect with Me</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/axel-frache"><img src="images/linkedin.png" alt="axel-frache | LinkedIn" width="24px" style="vertical-align: bottom;"/></a>
+  <a href="https://axelfrache.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" height="24px"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:axel.frache@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" width="24px" style="vertical-align: bottom; border-radius: 3px;"/></a>
+  <a href="https://www.linkedin.com/in/axel-frache"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="24px"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://dev.to/axelfrache"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="axel-frache | Dev.to" width="24px" style="vertical-align: bottom; border-radius: 3px;"/></a>
+  <a href="https://dev.to/axelfrache"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" height="24px"/></a>
 </p>
 
 <h2 align="center">💼 Technical Skills</h2>
