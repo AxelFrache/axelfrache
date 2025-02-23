@@ -1,4 +1,4 @@
-# Hi there, I'm [Axel](https://axelfrache.netlify.app/) 👋
+# Hi there, I'm [Axel](https://dev.axelfrache.me) 👋
 
 <p align="center">
   <a href="images/bannerLinkedin.png" target="_blank" rel="noreferrer"><img src="images/bannerLinkedin.png" alt="my banner"></a>
@@ -17,7 +17,7 @@
 <h2 align="center">🤝 Connect with Me</h2>
 
 <p align="center">
-  <a href="https://axelfrache.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" height="24px"/></a>
+  <a href="https://dev.axelfrache.me" target="_blank"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" height="24px"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/axel-frache" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="24px"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
